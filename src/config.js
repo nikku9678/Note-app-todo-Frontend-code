@@ -1,0 +1,1 @@
+export const base_url="https://note-app-todo-app.onrender.com/api/v1"
